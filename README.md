@@ -22,7 +22,6 @@ I'm a programmer with over 5 years of experience, primarily working with C# in a
 <p align="left"> <a href="https://discord.com/users/detroyer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Detroyer2222" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/detroyer_00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Detroyer2222"><img src="https://github-readme-stats.vercel.app/api?username=Detroyer2222&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Detroyer2222's GitHub stats" /></a>
@@ -32,10 +31,5 @@ I'm a programmer with over 5 years of experience, primarily working with C# in a
 <div width="100%" align="center"><a href="https://github.com/Detroyer2222/StarLedgerWebsite" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Detroyer2222&repo=StarLedgerWebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Detroyer2222/StarLedger.Api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Detroyer2222&repo=StarLedger.Api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
+<a href="https://www.ko-fi.com/detroyer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/detroyer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
