@@ -28,9 +28,6 @@ I'm a programmer with over 5 years of experience, primarily working with C# in a
 
 <a href="http://www.github.com/Detroyer2222"><img src="https://github-readme-stats.vercel.app/api?username=Detroyer2222&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Detroyer2222's GitHub stats" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Detroyer2222/StarLedgerWebsite" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Detroyer2222&repo=StarLedgerWebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Detroyer2222/StarLedger.Api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Detroyer2222&repo=StarLedger.Api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 <a href="https://www.ko-fi.com/detroyer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
