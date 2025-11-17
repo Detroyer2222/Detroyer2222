@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Detroyer2222/Detroyer2222/output/snake.svg" alt="Snake animation" />
-
-###
